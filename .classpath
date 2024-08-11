@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Demo/src/|assignment/src/|Demo/src/arrayofobject/|constructorExamples/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="assignment/src"/>
+	<classpathentry kind="src" path="constructorExamples/src"/>
+	<classpathentry excluding="arrayofobject/" kind="src" path="Demo/src"/>
+	<classpathentry kind="src" path="Demo/src/arrayofobject"/>
+	<classpathentry kind="output" path="Demo/bin"/>
+</classpath>
